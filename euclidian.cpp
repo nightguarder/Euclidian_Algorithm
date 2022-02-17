@@ -11,7 +11,7 @@
 //lze nalézt Bézoutovu rovnost, neboli vyjádření největšího společného dělitele dvou čísel jejich lineární kombinací.
 
 //gcd() == Greatest Common Divisor
-//lcm() == Least Common Multiple
+//lcm() == Least Common Multiplier
 
 void user_input(int x,int y, int *save1,int *save2){
     printf ("Input 2 numbers (with space between): ");
