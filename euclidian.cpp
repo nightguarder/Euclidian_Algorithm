@@ -36,7 +36,6 @@ int main(int argc, char **argv){
     //or use user_input()
     int x,y,res1,res2,res3 = 0;
     int number1,number2 = 0;
-    //int num1 = 64, num2 = 6;
     user_input(x,y,&number1,&number2);
 
     printf("Greatest common Divisor: \n");
