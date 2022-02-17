@@ -8,7 +8,7 @@ int gcd(int n, int m){
     if (n<0)
     return 0;
     
-    if (m ==0)
+    if (m == 0)
     return n;
 
     return gcd(m, (n%m));
