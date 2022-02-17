@@ -4,6 +4,6 @@
 ### How to run:
 -use the .exe file to run the program or compile it using gcc
 ### GCM, LCM, Extended Euclidian algorithm
--Euclidian algorithm and gcm (greatest common multiple) & lcm (least common multiple) functions
+-Euclidian algorithm and gcm (greatest common multiple) & lcm (least common multiplier) functions
 -Future updates:
 - add user input() to get numbers from user.
